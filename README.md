@@ -1,1 +1,1 @@
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=proton-bit&show_icons=true&include_all_commits=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&hide_border=true" alt="Said's github stats" /></a> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proton-bit&theme=radical&hide_border=true" /></a> 
+
