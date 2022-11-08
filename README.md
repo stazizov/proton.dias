@@ -2,20 +2,18 @@
 Junior machine learning engineer
 </h1>
 
-<div style="margin-left: 20%; margin-right: 20%;">
 <hr style="border: 2px solid rgb(20,108,252);">
-    <p style="text-align:center; font-size:28px; color: rgb(20,108,252);">
-        PERSONAL DETAILS
-    </p>
+<p style="text-align:center; font-size:28px; color: rgb(20,108,252);">
+    PERSONAL DETAILS
+</p>
 
 <div style="align-items: center; display: flex; justify-content: center;">
-        <a>
-            <img src="https://github-readme-stats.vercel.app/api?username=proton-bit&show_icons=truet&theme=transparent&hide_border=true" alt="Said's github stats" />
-        </a>
-        <a>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proton-bit&theme=transparent&hide_border=true" />
-        </a>
-</div>
+    <a>
+        <img src="https://github-readme-stats.vercel.app/api?username=proton-bit&show_icons=truet&theme=transparent&hide_border=true" alt="Said's github stats" />
+    </a>
+    <a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proton-bit&theme=transparent&hide_border=true" />
+    </a>
 
 <hr style="border: 2px solid rgb(20,108,252);">
     <p style="text-align:center; font-size:28px; color: rgb(20,108,252);">
