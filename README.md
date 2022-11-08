@@ -10,6 +10,6 @@
     </a>
     <a>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proton-bit&theme=transparent&hide_border=true" />
-    </a>a
+    </a>
 </body>
 </html>
