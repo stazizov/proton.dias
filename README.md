@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-</head>
-<body>
+
     <h1 style="font-size: 48px; text-align: center; color: rgb(20,108,252);">
         Junior machine learning engineer
     </h1>
@@ -77,5 +71,3 @@
         </ul>
         <hr style="border: 2px solid rgb(20,108,252);">
     </div>
-</body>
-</html>
