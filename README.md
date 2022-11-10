@@ -77,7 +77,7 @@ Junior machine learning engineer
         <br>
         <br>
         <a style="text-align: center; color: rgb(68,124,132);">
-            The solution was to build "smart" search engine for "supplier portal". We implemented website with autocorrection/autocompletion/detection of wrong keyboard layout with search engine based on ruBERT and td-idf
+            The solution was to build "smart" search engine for "supplier portal". We implemented website with autocorrection/autocompletion/detection of wrong keyboard layout with search engine based on ruBERT.
         </a>
     </li>
 </ul>
