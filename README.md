@@ -65,9 +65,9 @@ Junior machine learning engineer
             The solution that allows to recognize the letters of the dactyl alphabet and individual words of the Russian Sign Language in real time using a neural network. Resnet(2+1D) for gestures recognition + YOLOv4 for person localisation, we used PyQT5 as a GUI framework for the sake of cross-platform application.
         </a>
     </li>
+    <br>
+    <br>
     <li>
-        <br>
-        <br>
         <b style="color: rgb(108,172,220);">
            TenderHack (21-23 November 2022).
         </b>
