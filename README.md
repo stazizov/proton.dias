@@ -24,7 +24,7 @@ Junior machine learning engineer
     </p>
 <hr style="border: 2px solid rgb(20,108,252);">
     <p style="text-align: center; color: rgb(68,124,132);">
-        Python(Advanced), C++(basics), Swift, C#, sklearn, pandas, matplotlib, numpy, opencv, keras, pytorch, bash, git, PyQT5, algorithms. Classic ML, Computer Vision, Optical Character Recognition, Image Captioning, GANs, Video Processing, Classification, Regression, Segmentation, Detection.
+        Python(Advanced), C++(basics), Swift, C#, sklearn, pandas, matplotlib, numpy, opencv, keras, pytorch, bash, git, PyQT5, algorithms. Classic ML, Computer Vision, Optical Character Recognition, GANs, Video Processing, Classification, Regression, Segmentation, Detection.
     </p>
 
 <hr style="border: 2px solid rgb(20,108,252);">
