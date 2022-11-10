@@ -9,13 +9,13 @@ Junior machine learning engineer
 
 <div style="align-items: center; display: flex; justify-content: center;">
     <a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proton-bit&theme=transparent&hide_border=true" />
-    </a>
-    <a>
         <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/michaelcripman/dataset"/>
     </a>
     <a>
         <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/michaelcripman/notebook"/>
+    </a>
+    <a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proton-bit&theme=transparent&hide_border=true" />
     </a>
 
 <hr style="border: 2px solid rgb(20,108,252);">
