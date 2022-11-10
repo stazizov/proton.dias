@@ -72,12 +72,12 @@ Junior machine learning engineer
     <br>
     <li>
         <b style="color: rgb(108,172,220);">
-           TenderHack (21-23 November 2022).
+           TenderHack (21-23 November 2022) Result: second place.
         </b>
         <br>
         <br>
         <a style="text-align: center; color: rgb(68,124,132);">
-            The solution was to build search engine for "supplier portal"
+            The solution was to build "smart" search engine for "supplier portal". We implemented website with autocorrection/autocompletion/detection of wrong keyboard layout with search engine based on ruBERT and td-idf
         </a>
     </li>
 </ul>
