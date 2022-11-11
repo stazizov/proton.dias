@@ -6,11 +6,6 @@ Junior machine learning engineer
 <p style="text-align:center; font-size:28px; color: rgb(20,108,252);">
     PERSONAL DETAILS
 </p>
- <ul>
-    <li>phone number 📞 - +7-995-151-87-97</li>
-    <li>email 📬 - protonpetabyte@gmail.com</li>
-    <li>telegram : @said_azizov</li>
-</ul>
 
 <div style="align-items: center; display: flex; justify-content: center;">
     <a>
@@ -23,6 +18,15 @@ Junior machine learning engineer
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proton-bit&theme=transparent&hide_border=true" />
     </a>
 
+<br>
+<br>
+<h2>Contact information</h2>
+<ul>
+    <li>phone number 📞 - +7-995-151-87-97</li>
+    <li>email 📬 - protonpetabyte@gmail.com</li>
+    <li>telegram : @said_azizov</li>
+</ul>
+    
 <hr style="border: 2px solid rgb(20,108,252);">
     <p style="text-align:center; font-size:28px; color: rgb(20,108,252);">
         SKILLS
