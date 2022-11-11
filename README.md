@@ -5,6 +5,12 @@ Junior machine learning engineer
 <hr style="border: 2px solid rgb(20,108,252);">
 <p style="text-align:center; font-size:28px; color: rgb(20,108,252);">
     PERSONAL DETAILS
+    
+    <ul>
+        <li>phone number 📞 - +7-995-151-87-97<\li>
+        <li>email 📬 - protonpetabyte@gmail.com<\li>
+        <li>telegram : @said_azizov<\li>
+    </ul>
 </p>
 
 <div style="align-items: center; display: flex; justify-content: center;">
