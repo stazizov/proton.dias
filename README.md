@@ -1,5 +1,5 @@
 <h1 style="font-size: 48px; text-align: center; color: rgb(20,108,252);">
-Junior machine learning engineer
+Machine learning engineer
 </h1>
 
 <hr style="border: 2px solid rgb(20,108,252);">
