@@ -24,7 +24,7 @@ Junior machine learning engineer
 <ul>
     <li>phone number 📞 - +7-995-151-87-97</li>
     <li>email 📬 - protonpetabyte@gmail.com</li>
-    <li>telegram : @said_azizov</li>
+    <li>telegram 👨🏻‍💻: @said_azizov</li>
 </ul>
     
 <hr style="border: 2px solid rgb(20,108,252);">
