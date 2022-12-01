@@ -98,6 +98,8 @@ Machine learning engineer
         <a style="text-align: center; color: rgb(68,124,132);">
             bot for "packaging" startups 📦
         </a>
+        <br>
+        <br>
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
@@ -108,6 +110,8 @@ Machine learning engineer
         <a style="text-align: center; color: rgb(68,124,132);">
             proctoring system
         </a>
+        <br>
+        <br>
     </li>
 </ul>
 <hr style="border: 2px solid rgb(20,108,252);">
