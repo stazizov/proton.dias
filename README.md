@@ -90,6 +90,8 @@ Machine learning engineer
         </a>
     </li>
     <li>
+        <br>
+        <br>
         <b style="color: rgb(108,172,220);">
            GoCodeHack (19-20 November 2022) Result: first place 🥇 - 1000$.
         </b>
