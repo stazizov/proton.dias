@@ -81,12 +81,32 @@ Machine learning engineer
     <br>
     <li>
         <b style="color: rgb(108,172,220);">
-           TenderHack (21-23 November 2022) Result: second place.
+           TenderHack (21-23 October 2022) Result: second place 🥈.
         </b>
         <br>
         <br>
         <a style="text-align: center; color: rgb(68,124,132);">
             The solution was to build "smart" search engine for "supplier portal". We implemented website with autocorrection/autocompletion/detection of wrong keyboard layout with search engine based on ruBERT.
+        </a>
+    </li>
+    <li>
+        <b style="color: rgb(108,172,220);">
+           GoCodeHack (19-20 November 2022) Result: first place 🥇 - 1000$.
+        </b>
+        <br>
+        <br>
+        <a style="text-align: center; color: rgb(68,124,132);">
+            bot for "packaging" startups 📦
+        </a>
+    </li>
+    <li>
+        <b style="color: rgb(108,172,220);">
+           CyberGarden (26-27 November 2022) Result: second place 🥈.
+        </b>
+        <br>
+        <br>
+        <a style="text-align: center; color: rgb(68,124,132);">
+            proctoring system
         </a>
     </li>
 </ul>
