@@ -89,9 +89,9 @@ Machine learning engineer
             The solution was to build "smart" search engine for "supplier portal". We implemented website with autocorrection/autocompletion/detection of wrong keyboard layout with search engine based on ruBERT.
         </a>
     </li>
+    <br>
+    <br>
     <li>
-        <br>
-        <br>
         <b style="color: rgb(108,172,220);">
            GoCodeHack (19-20 November 2022) Result: first place 🥇 - 1000$.
         </b>
