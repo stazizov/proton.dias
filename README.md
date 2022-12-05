@@ -55,7 +55,7 @@ Machine learning engineer
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
-            AIIJC (inclusive environment track) January 2022 - May 2022 Result: Absolute winner ($16500) 🏆
+            AIIJC (inclusive environment track) May 2021- November 2021 Result: Absolute winner ($16500) 🏆
         </b>
     </li>
     <li>
