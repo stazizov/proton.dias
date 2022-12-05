@@ -47,45 +47,31 @@ Machine learning engineer
         <b style="color: rgb(108,172,220);">
             NTO ATS Olympics 2022 January 2022 - May 2022 Result: The 2nd place 🥈
         </b>
-        <br>
-        <br>
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
             NTO AI Olympics 2022 January 2022 - May 2022 Result: The prize-winner ($8250) 🏅
         </b>
-        <br>
-        <br>
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
             AIIJC (inclusive environment track) January 2022 - May 2022 Result: Absolute winner ($16500) 🏆
         </b>
-        <br>
-        <br>
     </li>
-    <br>
-    <br>
     <li>
         <b style="color: rgb(108,172,220);">
            TenderHack (21-23 October 2022) Result: second place 🥈.
         </b>
     </li>
-    <br>
-    <br>
     <li>
         <b style="color: rgb(108,172,220);">
            GoCodeHack (19-20 November 2022) Result: first place 🥇 - 1000$.
         </b>
-        <br>
-        <br>
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
            CyberGarden (26-27 November 2022) Result: second place 🥈.
         </b>
-        <br>
-        <br>
     </li>
 </ul>
 <hr style="border: 2px solid rgb(20,108,252);">
