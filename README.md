@@ -60,17 +60,17 @@ Machine learning engineer
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
-           TenderHack (21-23 October 2022) Result: second place 🥈.
+           TenderHack (21-23 October 2022) Result: second place 🥈
         </b>
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
-           GoCodeHack (19-20 November 2022) Result: first place 🥇 - 1000$.
+           GoCodeHack (19-20 November 2022) Result: first place ($1000) 🥇
         </b>
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
-           CyberGarden (26-27 November 2022) Result: second place 🥈.
+           CyberGarden (26-27 November 2022) Result: second place 🥈
         </b>
     </li>
 </ul>
