@@ -29,7 +29,7 @@ Machine learning engineer
     
 
 <p style="text-align:center; font-size:28px; color: rgb(20,108,252);">
-    COMPETITIONS EXPERIENCE (2022-present)
+    COMPETITIONS EXPERIENCE (2021-present)
 </p>
 
 <ul>
