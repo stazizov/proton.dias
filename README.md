@@ -8,16 +8,7 @@ Machine learning engineer
 </p>
 
 <div style="align-items: center; display: flex; justify-content: center;">
-    <a>
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/michaelcripman/dataset" />
-    </a>
-    <a>
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/michaelcripman/notebook" />
-    </a>
-    <a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proton-bit&theme=transparent&hide_border=true" />
-    </a>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proton-bit&theme=transparent&hide_border=true" />
 <br>
 <br>
 <h2>Contact information</h2>
