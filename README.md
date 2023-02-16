@@ -3,14 +3,6 @@ Machine learning engineer
 </h1>
 
 <hr style="border: 2px solid rgb(20,108,252);">
-<p style="text-align:center; font-size:28px; color: rgb(20,108,252);">
-    PERSONAL DETAILS
-</p>
-
-<div style="align-items: center; display: flex; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proton-bit&theme=transparent&hide_border=true" />
-<br>
-<br>
 <h2>Contact information</h2>
 <ul>
     <li>email 📬 - protonpetabyte@gmail.com</li>
