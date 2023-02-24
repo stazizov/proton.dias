@@ -22,12 +22,12 @@ Machine learning engineer
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
-            NTO AI Olympics 2022 January 2022 - May 2022 Result: The prize-winner ($8250) 🏅
+            NTO AI Olympics 2022 January 2022 - May 2022 Result: The prize-winner🏅
         </b>
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
-            AIIJC (inclusive environment track) May 2021- November 2021 Result: Absolute winner ($16500) 🏆
+            AIIJC (inclusive environment track) May 2021- November 2021 Result: Absolute winner  🏆
         </b>
     </li>
     <li>
@@ -37,7 +37,7 @@ Machine learning engineer
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
-           GoCodeHack (19-20 November 2022) Result: first place ($1000) 🥇
+           GoCodeHack (19-20 November 2022) Result: first place 🥇
         </b>
     </li>
     <li>
