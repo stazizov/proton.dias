@@ -17,17 +17,17 @@ Machine learning engineer
 <ul>
     <li>
         <b style="color: rgb(108,172,220);">
+            AIIJC (inclusive environment track) May 2021- November 2021 Result: Absolute winner  🏆
+        </b>
+    </li>
+    <li>
+        <b style="color: rgb(108,172,220);">
             NTO ATS Olympics 2022 January 2022 - May 2022 Result: The 2nd place 🥈
         </b>
     </li>
     <li>
         <b style="color: rgb(108,172,220);">
             NTO AI Olympics 2022 January 2022 - May 2022 Result: The prize-winner🏅
-        </b>
-    </li>
-    <li>
-        <b style="color: rgb(108,172,220);">
-            AIIJC (inclusive environment track) May 2021- November 2021 Result: Absolute winner  🏆
         </b>
     </li>
     <li>
